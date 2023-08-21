@@ -1,0 +1,72 @@
+{
+  "areas": [
+    {
+      "id": 1,
+      "name": "producción"
+    },
+    {
+      "id": 2,
+      "name": "finanzas"
+    },
+    {
+      "id": 3,
+      "name": "contabilidad"
+    },
+    {
+      "name": "recortes",
+      "id": 4
+    }
+  ],
+  "types": [
+    {
+      "id": 1,
+      "name": "automóvil"
+    },
+    {
+      "id": 2,
+      "name": "moto"
+    },
+    {
+      "name": "bicicleta",
+      "id": 3
+    },
+    {
+      "name": "cuadratrak",
+      "id": 4
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "name": "Roberto Escalante Arias",
+      "areasId": 1,
+      "typesId": 1,
+      "color": "rojo",
+      "placa": "uht2312"
+    },
+    {
+      "name": "Rodrigo Montano",
+      "areasId": 1,
+      "typesId": 2,
+      "color": "amarillo",
+      "placa": "abc1234",
+      "id": 2
+    },
+    {
+      "name": "Jose Andriel",
+      "areasId": 2,
+      "typesId": 1,
+      "color": "verde",
+      "placa": "def5648",
+      "id": 3
+    },
+    {
+      "name": "Claudia Lizarazu",
+      "areasId": 1,
+      "typesId": 2,
+      "color": "celeste",
+      "placa": "ioi4598",
+      "id": 4
+    }
+  ]
+}
